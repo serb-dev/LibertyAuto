@@ -1,0 +1,576 @@
+@media(max-width: 320px){
+
+    .top-header{
+        background-color: black;
+    }
+
+    .cities{
+        display: none;
+    }
+
+    .social{
+        text-align: center;
+        font-size: 1.1em;
+    }
+
+    .social a{
+        padding: 0 2px;
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        background-color: grey;
+        padding-left: 20px;
+    }
+
+    .navbar-brand{
+        max-width: 50%;
+    }
+
+    .title h3{
+        font-size: 0.7rem;
+        letter-spacing: 2px;
+    }
+
+    .blue-car{
+        display: none;
+    }
+
+    .title-btn a {
+        font-size: 1rem;
+    }
+
+    .about{
+        background-image: none;
+    }
+    
+    .about-title h1{
+        font-size: 1.3em;
+        line-height: 1.3;
+    }
+
+    .section-title {
+        padding-bottom: 2em;
+    }
+
+    .last{
+        padding-top: 1em;
+    }
+
+    .last .timer{
+        padding-top: 0.5em;
+    }
+
+    .wrap-icon i{
+        font-size: 1.5em;
+    }
+
+    .timer{
+        font-size: 1em;
+    }
+
+    .feature-box{
+        text-align: center;
+    }
+
+    .question h2{
+        line-height: 1.5;
+        font-size: 1.2em;
+    }
+
+    .form-control{
+        font-size: 1.2rem;
+    }
+    .form-group input{
+        margin: 1.2rem auto;
+        max-width: 260px;
+    }
+
+    .form-group input{
+        padding: 0 0 0 0.5em;
+    }
+
+    .button-form a{
+        padding: 0.875em 6.5em;
+    }
+
+    .wrap-city a {
+        padding: 0.7em;
+        font-size: .9em;
+    }
+    
+    .wrap-city i{
+        padding: 0.3em 0;
+    }
+
+    .wrap-city span {
+        font-size: 1em;
+        font-weight: 600;
+        padding: 0.5em;
+    }
+
+    .wrap-city{
+        text-align: center;
+        padding: 0.5em;
+        display: inherit;
+    }
+
+    .advantages h2 {
+        padding-top: 2em;
+        font-size: 1.2em;
+    }
+
+    .wrap-advantages p{
+        font-size: 0.9em;
+    }
+
+    .delivery{
+        height: 100%;
+    }
+
+    .delivery h3 {
+        padding: 1em 0 2em;
+        font-size: 1em;
+        line-height: 1.5;
+    }
+    
+    .video{
+        margin: -30px auto;
+    }
+
+    .delivery__plan{
+        padding: 2em 0;
+    }
+    
+    .infomation h2{
+        font-size: 1.3em;
+        line-height: 1;
+        padding-top: 2em;
+    }
+
+    .offers h3{
+        font-size: 1em;
+        line-height: 1.5;
+    }
+
+    .clients-car h3{
+        font-size: 1.2em;
+        line-height: 1.5;
+    }
+
+    .clients-car .video {
+        margin: 10px auto;
+    }
+
+    .think__about-car .section-title,
+    .think__title p{
+        text-align: center;
+    }
+
+    .think__title h3{
+        font-size: 1.1em;
+        line-height: 1.5;
+    }
+
+    .woman{
+        display: none;
+    }
+
+    .button-think{
+        text-align: center;
+    }
+
+    .button-think a{
+        padding: 0.875em 6.5em;
+    }
+
+    .city__content p{
+        font-size: 0.9em;
+    }
+
+    .city-box{
+        padding: 1em;
+    }
+
+    .social__buttons a i{
+        font-size: 2em;
+    }
+
+    .soc__btn{
+        display: none;
+    }
+
+    .wg-first {
+        padding: 5em 0 1em;
+        text-align: center;
+    }
+    
+    .wg-offers,
+    .wg-recent__posts,
+    .wg-contacts {
+        padding: 0.7em 0;
+    }
+
+    .widget span {
+        font-size: 0.8em;
+    }
+    
+    .copyright{
+        text-align: center;
+        padding: 2em 0 3.5em;
+    }
+}
+
+@media(min-width: 425px){
+    
+    .wrap-city {
+    padding: 1.5em 0;
+    }
+
+    .wrap-city span {
+        font-size: 1em;
+    }
+
+    .wrap-city a {
+    font-size: .8em;
+    }
+
+    .button-form a{
+        padding: 0.875em 9em;
+    }
+}
+
+@media(max-width: 576px){
+    .top-header{
+        background-color: black;
+    }
+
+    .cities{
+        display: none;
+    }
+
+    .clock {
+        justify-content: center;
+    }
+
+    .social{
+        text-align: center;
+        font-size: 1.1em;
+    }
+
+    .social a{
+        padding: 0 2px;
+    }
+
+    .title h3{
+        font-size: 0.7rem;
+        letter-spacing: 2px;
+    }
+
+    .blue-car{
+        display: none;
+    }
+
+    .title-btn a {
+        font-size: 1rem;
+    }
+
+    .about{
+        background-image: none;
+    }
+    
+    .about-title h1{
+        font-size: 1.3em;
+        line-height: 1.3;
+    }
+
+    .section-title {
+        padding-bottom: 2em;
+    }
+
+    .last{
+        padding-top: 1em;
+    }
+
+    .last .timer{
+        padding-top: 0.5em;
+    }
+
+    .wrap-icon i{
+        font-size: 1.5em;
+    }
+
+    .timer{
+        font-size: 1em;
+    }
+
+    .feature-box{
+        text-align: center;
+    }
+
+    .question h2{
+        line-height: 1.5;
+        font-size: 1.2em;
+    }
+
+    .form-control{
+        font-size: 1.2rem;
+    }
+    .form-group input{
+        margin: 1.2rem auto;
+        max-width: 260px;
+    }
+
+    .form-group input{
+        padding: 0 0 0 0.5em;
+    }
+
+    .button-form a{
+        padding: 0.875em 6.5em;
+    }
+
+    .wrap-city a {
+        padding: 0.7em;
+        font-size: 0.9em;
+    }
+    
+    .wrap-city span{
+        font-size: 1em;
+    }
+
+    .wrap-city{
+        text-align: center;
+        padding: .5em 0;  
+    }
+
+    .advantages h2 {
+        padding-top: 2em;
+        font-size: 1.2em;
+    }
+
+    .wrap-advantages p{
+        font-size: 0.9em;
+    }
+
+    .delivery{
+        height: 100%;
+    }
+
+    .delivery h3 {
+        padding: 1em 0 2em;
+        font-size: 1.5em;
+        line-height: 1.5;
+    }
+    
+    .video{
+        margin: -30px auto;
+    }
+
+    .delivery__plan{
+        padding: 2em 0;
+    }
+    
+    .infomation h2{
+        font-size: 1.3em;
+        line-height: 1;
+        padding-top: 2em;
+    }
+
+    .offers h3{
+        font-size: 1em;
+        line-height: 1.5;
+    }
+
+    .clients-car h3{
+        font-size: 1.2em;
+        line-height: 1.5;
+    }
+
+    .clients-car .video {
+        margin: 10px auto;
+    }
+
+    .think__about-car .section-title,
+    .think__title p{
+        text-align: center;
+    }
+
+    .think__title h3{
+        font-size: 1.1em;
+        line-height: 1.5;
+    }
+
+    .woman{
+        display: none;
+    }
+
+    .button-think{
+        text-align: center;
+    }
+
+    .button-think a{
+        padding: 0.875em 6.5em;
+    }
+
+    .city__content p{
+        font-size: 0.9em;
+    }
+
+    .city-box{
+        padding: 1em;
+    }
+
+    .social__buttons a i{
+        font-size: 2em;
+    }
+
+    .soc__btn{
+        display: none;
+    }
+
+    .wg-first {
+        padding: 5em 0 1em;
+        text-align: center;
+    }
+    
+    .wg-offers,
+    .wg-recent__posts,
+    .wg-contacts {
+        padding: 0.7em 0;
+    }
+
+    .widget span {
+        font-size: 0.8em;
+    }
+    
+    .copyright{
+        text-align: center;
+        padding: 2em 0 3.5em;
+    }
+
+    .copyright-right {
+        position: inherit;
+    }
+}
+
+@media(min-width: 768px){
+    .clock {
+        justify-content: end;
+    }
+
+    .button-think a{
+        padding: 0.875em 9em;
+    } 
+}
+
+@media(max-width: 768px){  
+    .cities{
+        display: none;
+    }
+    
+    .social{
+        font-size: 1.2em;
+    }
+
+    .social a{
+        padding: 0 2px;
+    }
+
+    .about{
+        background-image: none;
+    }
+    
+    .about-title h1{
+        line-height: 1.3;
+    }
+
+    .think__title h3{
+        font-size: 1.1em;
+        line-height: 1.5;
+    }
+
+    .button-think{
+        text-align: center;
+    }
+
+    .form-group input{
+        padding: 0 1em;
+    }
+
+    .city-box{
+        padding: 1em 0;
+    }
+
+    .city__content{
+        padding: 0;
+    }
+
+    .city__content p {
+        font-size: 0.8em;
+    }
+
+    .soc__btn{
+        display: none;
+    }
+
+    .widget {
+        padding: 4em 0 1em;
+    }
+
+    .wg-first,
+    .wg-offers {
+        padding: 5em 0 1em;
+        text-align: center;
+    }
+
+    .wg-first, .wg-offers{
+        text-align: initial;
+    }
+    
+    .wg-recent__posts,
+    .wg-contacts {
+        padding: 0.7em 0;
+    }
+
+    .copyright-right a {
+        font-size: 0.9em;
+    }
+}
+
+@media(min-width: 1024px){
+    .button-form a {
+        padding: 0.875em 7.7em;
+    }
+
+    .button-think a {
+        padding: 0.875em 4em;
+    }
+    
+}
+
+@media(max-width: 1024px){
+    .top-header p{
+        font-size: 0.7em;
+    }
+
+    .city-box{
+        padding: 1em 0;
+    }
+
+    .city__content{
+        padding: 0;
+    }
+
+    .city__content p {
+        font-size: 0.8em;
+    }
+}
+
+@media(min-width: 1440px){
+    .button-think a{
+        padding: 0.875em 11.5em;
+    }
+
+    .button-form a {
+        padding: 0.875em 10em;
+    }
+}
